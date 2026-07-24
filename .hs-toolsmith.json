@@ -1,0 +1,14 @@
+{
+  "hsToolsmith": true,
+  "title": "bvh-motion-tools",
+  "pitch": "Load, retarget, and blend BVH motions with a clean Python API.",
+  "language": "python",
+  "category": "Data Processing",
+  "keyFeatures": [
+    "BVH parser to skeleton + per-joint transforms",
+    "Retargeting between skeletons with joint mapping",
+    "Motion trimming, looping, and time-warp resampling",
+    "Blend and concatenate clips with root-motion options"
+  ],
+  "targetUsers": "Python developers preprocessing motion-capture BVH files for character animation, ML, or game pipelines."
+}
